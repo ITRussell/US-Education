@@ -1,2 +1,2 @@
 # US_Education
-This repository contains jupyter notebooks on the topic of education in the United States.
+This repository contains Jupyter notebooks on the topic of education in the United States. All data related tasks and objects are present in the 'data' folder. This includes any scripts written for the transformation or extraction of data. Some figures in Jupyter notebooks do not appear in rendered form here on Github. These are generally plots constructed with Plotly (usually choropleths). If the notebook is run locally these figures will appear. 
